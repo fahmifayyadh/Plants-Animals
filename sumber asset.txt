@@ -1,0 +1,18 @@
+tumbuhan : 
+https://opengameart.org/content/single-cactus-game-ornament
+https://opengameart.org/content/cubby-tree
+https://opengameart.org/content/cute-tree-game-ornament
+
+hewan :
+https://opengameart.org/content/goggle-eye-bee-enemy-game-character
+https://opengameart.org/content/grumpy-bee-enemy-game-character
+https://opengameart.org/content/bevouliin-free-bee-flappy-bird-sprite-sheets
+
+Button Asset:
+https://www.gamedevmarket.net/asset/free-game-button-pack-1906/
+
+background :
+https://opengameart.org/content/bevouliin-free-nature-game-background-for-gamedevs
+
+Game Over Audio :
+https://opengameart.org/content/game-over-bad-chest-sfx
